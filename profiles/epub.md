@@ -32,8 +32,6 @@ The [`layout`](../contexts/default/README.md#layout-and-reading-progression) of 
 
 This profile also supports fixed layout publications where the `layout` property is set to `fixed` for the entire publication.
 
-This behaviour can be overriden by specific resources in the reading order using the `layout` property, [as defined in this document](#layout).
-
 ## 4. Collection Roles
 
 | Role  | Semantics | Compact? | Required? |
